@@ -1,16 +1,17 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "week05_comp3104_lab_exec",
+  "description": "",
   "main": "index.js",
   "scripts": {
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
-  },
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joelcazu/comp3104.git"
@@ -21,9 +22,8 @@
   "bugs": {
     "url": "https://github.com/joelcazu/comp3104/issues"
   },
-  "homepage": "https://github.com/joelcazu/comp3104#readme"
-
-  ,"dependencies": {
+  "homepage": "https://github.com/joelcazu/comp3104#readme",
+  "dependencies":{
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
@@ -40,5 +40,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-  
+    
 }
