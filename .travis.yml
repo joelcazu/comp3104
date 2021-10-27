@@ -4,9 +4,7 @@ node_js:
 
 branches:
   only:
-  - master
-  - stables
-  
+  - master  
 
 cache:
   directories:
