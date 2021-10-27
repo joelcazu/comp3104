@@ -133,4 +133,8 @@ export default class Sidebar extends Component {
       </div>
     );
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dep-inclusions
